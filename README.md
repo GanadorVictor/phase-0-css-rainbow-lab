@@ -27,7 +27,7 @@ Code. Run `npm test` as you work to see your test progress.
 Hyper Text Markup Language, or HTML, is a way to structure a document with
 different parts. Each section of content is _marked_ by elements (using tags).
 Each element has its own special meaning that the browser uses to _render_ the
-HTML document. Use this [cheat sheet](https://htmlcheatsheet.com/) on HTML
+HTML document. Use this [cheat sheet](://httpshtmlcheatsheet.com/) on HTML
 elements for guidance.
 
 ### Elements
